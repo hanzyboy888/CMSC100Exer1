@@ -1,0 +1,17 @@
+a:link, a:visited {text-decoration:none;display:inline-block;}
+a:hover {color:green;}
+h1 {color:maroon}
+.pizza{margin-right:30%;margin-left:30%;}
+.form{border:none;background-color:orange;}
+.form1{border:none;background-color:orange;}
+.fblogo{position:fixed;right:0px;bottom:50%;width:80px;}
+.fb{text-align:center;position:fixed;right:0px;bottom:38%;width:70px;color:black;text-decoration:none;background-color:orange;padding:3px 3px;}
+.fblogo:hover,.fb:hover{color:black;}
+.fieldset{border:none;background-color:orange;}
+.about{position:relative;border:solid orange;width:100%;height:100%;}
+.contact{position:relative;border:solid orange;width:100%;height:100%;}
+fieldset {border:none;}
+.google{top:10%;position:absolute;right:30px;bottom:20%;width:60%;height:170px;}
+.right{top:10%;bottom:20%;right:10px;position:absolute;height:300px;width:46%;}
+h4 {position:absolute;border:solid green;background-color:green;right:10px;height:20px;width:45%;bottom:5%;text-align:center;}
+p{position:relative;margin-right:60%;}
